@@ -1,0 +1,9 @@
+finance-dashboard/
+├── app.py
+├── templates/
+│   └── index.html
+├── static/
+│   └── style.css
+├── database.db
+├── requirements.txt
+└── README.md
